@@ -1,4 +1,4 @@
-AI-doodle-book-tutorial
+# AI-doodle-book-tutorial
 
 ---
 
@@ -18,5 +18,5 @@ You can find my works right here, they can be downloaded for free.
 Welcome to follow my Patreon account! I'll try my best to come up with a new set of doodle works with various themes every month (mainly depends on how fast my son can finish coloring them).
 
 <a href="https://www.patreon.com/bePatron?u=101327951" data-patreon-widget-type="become-patron-button">
-  <img src="./resource/asset-preview.png"/>
+  <img src="./.resource/asset-preview.png"/>
 </a>
