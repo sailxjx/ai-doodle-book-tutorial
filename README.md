@@ -1,7 +1,5 @@
 # AI-doodle-book-tutorial
 
----
-
 ![p1](https://public-files.gumroad.com/crqoq05agita3hoy64i7bzx7l70o)
 ![p2](https://public-files.gumroad.com/91woqlh5zzj1rsnsnj8wda290eg8)
 
@@ -18,5 +16,5 @@ You can find my works right here, they can be downloaded for free, or join [our 
 Welcome to follow my Patreon account! I'll try my best to come up with a new set of doodle works with various themes every month (mainly depends on how fast my son can finish coloring them 😉).
 
 <a href="https://www.patreon.com/bePatron?u=101327951" data-patreon-widget-type="become-patron-button">
-  <img src="./.resource/asset-preview.png" width='300'/>
+  <img src="./.resource/asset-preview.png" width='450'/>
 </a>
