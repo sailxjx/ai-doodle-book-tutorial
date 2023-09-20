@@ -12,6 +12,7 @@ You can find my works right here, they can be downloaded for free, or join [our 
 
 - [creative-sketch-animals](https://codekidz.gumroad.com/l/creative-sketch-animals)
 - [creative-sketch-blocks](https://codekidz.gumroad.com/l/creative-sketch-blocks)
+- [coloring-book-anime](https://codekidz.gumroad.com/l/coloring-book-anime)
 
 Welcome to follow my Patreon account! I'll try my best to come up with a new set of doodle works with various themes every month (mainly depends on how fast my son can finish coloring them 😉).
 
